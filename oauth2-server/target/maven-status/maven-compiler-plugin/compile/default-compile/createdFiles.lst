@@ -1,0 +1,4 @@
+com/sivalabs/oauth2server/WebSecurityConfigurer.class
+com/sivalabs/oauth2server/OAuth2Config.class
+com/sivalabs/oauth2server/WebMvcConfig.class
+com/sivalabs/oauth2server/Oauth2ServerApplication.class

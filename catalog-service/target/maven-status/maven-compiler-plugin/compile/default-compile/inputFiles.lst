@@ -1,0 +1,11 @@
+/Users/macbook/work/micro_services/workspace/spring-boot-microservices-series-master/catalog-service/src/main/java/com/sivalabs/catalogservice/services/InventoryServiceFeignClient.java
+/Users/macbook/work/micro_services/workspace/spring-boot-microservices-series-master/catalog-service/src/main/java/com/sivalabs/catalogservice/services/InventoryServiceClient.java
+/Users/macbook/work/micro_services/workspace/spring-boot-microservices-series-master/catalog-service/src/main/java/com/sivalabs/catalogservice/web/models/ProductInventoryResponse.java
+/Users/macbook/work/micro_services/workspace/spring-boot-microservices-series-master/catalog-service/src/main/java/com/sivalabs/catalogservice/CatalogServiceApplication.java
+/Users/macbook/work/micro_services/workspace/spring-boot-microservices-series-master/catalog-service/src/main/java/com/sivalabs/catalogservice/repositories/ProductRepository.java
+/Users/macbook/work/micro_services/workspace/spring-boot-microservices-series-master/catalog-service/src/main/java/com/sivalabs/catalogservice/web/controllers/ProductController.java
+/Users/macbook/work/micro_services/workspace/spring-boot-microservices-series-master/catalog-service/src/main/java/com/sivalabs/catalogservice/utils/ContextCopyHystrixConcurrencyStrategy.java
+/Users/macbook/work/micro_services/workspace/spring-boot-microservices-series-master/catalog-service/src/main/java/com/sivalabs/catalogservice/services/ProductService.java
+/Users/macbook/work/micro_services/workspace/spring-boot-microservices-series-master/catalog-service/src/main/java/com/sivalabs/catalogservice/utils/MyThreadLocalsHolder.java
+/Users/macbook/work/micro_services/workspace/spring-boot-microservices-series-master/catalog-service/src/main/java/com/sivalabs/catalogservice/exceptions/ProductNotFoundException.java
+/Users/macbook/work/micro_services/workspace/spring-boot-microservices-series-master/catalog-service/src/main/java/com/sivalabs/catalogservice/entities/Product.java
